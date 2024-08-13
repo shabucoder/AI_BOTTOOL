@@ -3,7 +3,10 @@
 
 RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](rockybot.jpg)
+
+
+![WhatsApp Image 2024-08-13 at 4 12 22 PM](https://github.com/user-attachments/assets/a531e22f-0899-4a77-a360-1f7034658801)
+
 
 ## Features
 
